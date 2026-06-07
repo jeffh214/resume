@@ -1,0 +1,10 @@
+# Logs
+*.log
+debug.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Dependencies (none currently, but just in case)
+node_modules/

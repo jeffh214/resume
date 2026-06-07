@@ -1,0 +1,215 @@
+{
+  "name": "Jeff Hall",
+  "title": "Lead QA Engineer",
+  "location": "Dallas, TX",
+  "email": "morphious@hotmail.com",
+  "phone": "214-406-2356",
+  "linkedin": "https://www.linkedin.com/in/jeff-hall-a45299/",
+  "summaryIntro": "Several years of experience in Web and Client/Server Testing with thorough understanding of both SDLC and Agile project methodologies. Expertise in software testing and process development of QA in SDLC environment.",
+  "summaryQualifications": [
+    "Excellent knowledge and working experience with test strategies, test planning, test execution, test results analysis and defect management",
+    "Strong analytical and problem-solving skills with excellent communication and comprehensive understanding of different phases of project life cycle",
+    "Experience with Manual testing, Backend Testing and Application Development",
+    "Working knowledge of entire Software Development Life Cycle (SDLC) and Quality Assurance Life Cycle (QALC)",
+    "Accessibility Testing for Front end websites using JAWS, NVDA, Talkback, Voiceover",
+    "Expertise in analyzing Business and System Requirements specification",
+    "Proficient in reviewing and documentation of system test plans, defining test procedures and creating test cases",
+    "Highly proficient with manual testing and as well as some knowledge in automation testing",
+    "Experience in web-based and client/server applications",
+    "Performed GUI, Functional, Integration, Regression, Smoke and sanity testing, UAT",
+    "Proficient in problem solving, bug tracking, and reporting using Test Director, Quality Center and JIRA",
+    "Work extensively with Development team and project teams to resolve reported issues",
+    "SQL, JSON script writing utilizing MSSQL, MYSQL, Postman and SOAP",
+    "Proficient in email testing platforms: Litmus, Email on Acid",
+    "Strong knowledge of HTML and CSS for email template troubleshooting",
+    "Experience with email marketing platforms: AEM and Salesforce",
+    "A/B testing methodologies and performance metrics analysis"
+  ],
+  "skills": {
+    "testing": ["Manual testing", "Backend testing", "GUI testing", "Functional testing", "Integration testing", "Regression testing", "Smoke testing", "Sanity testing", "UAT", "Automation testing (some knowledge)", "SDLC", "Agile", "QALC"],
+    "accessibility": ["JAWS", "NVDA", "TalkBack", "VoiceOver", "ADA AA guidelines", "ARIA labels"],
+    "email": ["Litmus", "Email on Acid", "Return Path", "AEM", "Salesforce", "Exact Target", "Alterian", "HTML", "CSS", "A/B testing", "Deliverability"],
+    "technical": ["SQL", "JSON", "MSSQL", "MySQL", "Postman", "SOAP", "RESTful/JSON API testing", "Cross-browser testing", "Mobile testing (iOS & Android)"],
+    "tools": ["JIRA", "Test Director", "Quality Center", "Mercury Quality Center", "Team Foundation Server", "QMetry", "Mantis", "SharePoint", "Tidal Scheduler", "Surround SCM", "Visual Studio", "Keynote Mobile Testing", "X-Code emulators"]
+  },
+  "education": [
+    {
+      "school": "Art Institute of Dallas",
+      "location": "Dallas, TX",
+      "period": "1994–1995",
+      "detail": "Computer animation and multimedia studies using high end graphics workstations such as Silicon Graphics and Sun Microsystems; software including Adobe Photoshop and 3D Studio Max."
+    },
+    {
+      "school": "Richland College",
+      "location": "Dallas, TX (Continuing Education)",
+      "period": "1995–2006",
+      "detail": "Applied Associates in Business Management. Additional courses in Computer Science, Math, History, Speech and Communication, Creative Writing. Also occasionally attend continuing education courses for IT advancement."
+    }
+  ],
+  "experience": [
+    {
+      "company": "Verizon Wireless",
+      "role": "Lead QA Engineer",
+      "period": "2023 — Present",
+      "location": "",
+      "highlights": [
+        "Writing and maintaining QA group documentation for everyday use",
+        "Wrote and continuous updates of the QA checklist",
+        "Assisting with process improvements",
+        "Conducted comprehensive testing of email campaigns across multiple devices and platforms, ensuring functionality and formatting consistency",
+        "Implemented A/B testing strategies resulting in a 15% increase in open rates",
+        "Collaborated with marketing and design teams to optimize email templates for improved engagement and deliverability",
+        "Use of multiple tools for email marketing testing including Jira, Email on Acid and browser extensions",
+        "Working closely with Development, Project managers and Campaign managers"
+      ]
+    },
+    {
+      "company": "Publicis Group (FKA)",
+      "role": "Senior QA Engineer",
+      "period": "2021 — 2023",
+      "location": "",
+      "highlights": [
+        "Email marketing testing for Verizon which included new product launch (Emails), Pricing, Onboarding, AAL (Add a Line/Upgrade), Prepaid, Target Banners",
+        "ADA testing following AA guidelines, Aria labels, Automation reports, Visual check, links, Tracking tags and legal. End to End Testing for All email campaigns",
+        "Dynamic content and logic/Variable testing for Verizon emails",
+        "Cross browser and Mobile functionality testing of client emails and sites",
+        "Establishing Quality and accuracy of highly complex and technically advanced email campaigns",
+        "Email testing for Audi and Volkswagen",
+        "Banner testing for Starbucks, Kohl's, Audible, OXO, GST (Gulf State Toyota), Nutrish, Pop tart",
+        "Understand and analyze user stories, requirements, or product specifications",
+        "Participate in planning activities, providing level of effort estimates",
+        "Assign work and help with any issues for Onshore and Offshore teams",
+        "Provide feedback about testability and any design issues as appropriate",
+        "Understand and implement best-fit testing approaches to ensure that applications and new features are working as expected",
+        "Create and execute manual tests, ensuring testing standards and best practices that align with client guidelines",
+        "Define comprehensive scenarios and variations in data to adequately perform testing",
+        "Communicate defects accurately and effectively to the team",
+        "Perform functional, system integration, regression, and release testing",
+        "Communicate bugs, and assist with triage of discovered bugs",
+        "Collaborate with Developers, Project Managers, Campaign Managers and internal teams ensuring that testing is performed according to standards, as well as industry best practices",
+        "Perform job duties with minimal supervision, and escalate problems and concerns to leadership",
+        "Adhere to policies and procedures",
+        "Participated in 3rd party client UAT bridge calls for client testing"
+      ]
+    },
+    {
+      "company": "RAPP",
+      "role": "QA Specialist (Contract/Freelancer)",
+      "period": "2021 — 2021",
+      "location": "",
+      "highlights": [
+        "Working with major client's accounts like Toyota and Lexus to create more efficient and more effective emails for the client, vendors, and customers alike",
+        "Thoroughly editing copy, stress-testing HTML content and cross-browser functionality, and verifying legal disclaimers as projects grow from conception to content",
+        "Reviewing various style guidelines — such as in-house, client, AP, Chicago, and the Gregg Reference Manual — in order to achieve the cleanest results",
+        "Creating tickets in JIRA live spreadsheets, and collaborating with project managers to streamline the QA process and push the best possible product in the requested timeline"
+      ]
+    },
+    {
+      "company": "Tandem Theory",
+      "role": "QA Engineer (Part Time)",
+      "period": "2020 — 2021",
+      "location": "",
+      "highlights": [
+        "Responsibilities included building the QA group and establishing QA process",
+        "Installation and configuration of Bug Tracking and Test Case creation software based on best client/company needs"
+      ]
+    },
+    {
+      "company": "Ansira Engagement Marketing",
+      "role": "Digital Quality Assurance Engineer",
+      "period": "2011 — 2020",
+      "location": "Addison, TX",
+      "highlights": [
+        "Digital email campaign and website testing for major Clients including Wendy's, Rent-a-Center, Dave and Busters, Domino's Pizza, Benihana, Mitsubishi, Purina, Baskin-Robbins, Oklahoma Gas and Electric, and Fiat/Loews",
+        "Testing of client emails and website enhancements and advertisement pages including all backend functions",
+        "User experience testing of data driven models (Emails, Websites)",
+        "Data driven backend testing using SQL",
+        "Bug tracking of client defects using Team Foundation Server",
+        "Test case creation for client system testing including credit card and online pay systems",
+        "Testing of Customer Management Systems",
+        "Project tracking and defect tracking using QMetry, Mantis and Jira",
+        "API Testing using Restful/JSON for new Rent A Center automatic approval Ecommerce engine",
+        "Mobile testing for both IOS and Android",
+        "Multiple applications, websites and emails for responsive/functional testing and OS compatibility using Safari, Firefox, IE, Chrome and the Android Browser",
+        "Used Litmus, Return Path, Mobile Testing Enterprise Studio otherwise known as Keynote, X-Code emulators and Browser Developer tools to emulate mobile phone OS's and devices for testing purposes",
+        "Utilized Alterian and Exact Target/Salesforce"
+      ]
+    },
+    {
+      "company": "Penson Worldwide Financial Services",
+      "role": "Quality Assurance Engineer (Contract)",
+      "period": "2011 — 2011",
+      "location": "Dallas, TX",
+      "highlights": [
+        "Worked with development teams in investigating and correcting software bugs and deficiencies based on the testing",
+        "Defined project timeline and provided estimates and worked with developers and other junior testers to make sure all the deadlines are met",
+        "Co-ordinated with developers to discuss issues in interpreting the requirements",
+        "Continuously reviewed and improved testing process",
+        "Produced daily reports on defects and test case execution",
+        "Provide reports/presentations as needed to report progress and project completion goals",
+        "Interacted regularly with the Software Architects, Development leads, Database Designers and System Administrators to meet the deadlines of project milestones",
+        "Highly motivated team leader with excellent communication, presentation, self-organizing and inter-personal skills",
+        "Wrote test plans and SQL queries to verify Data",
+        "Tested reporting conversion and logged and monitored defects to resolution",
+        "Used TFS and SharePoint to review requirements",
+        "Executed and altered jobs using Tidal Scheduler"
+      ]
+    },
+    {
+      "company": "FedEx Office",
+      "role": "Quality Assurance Engineer (Contract)",
+      "period": "2010 — 2011",
+      "location": "Dallas, TX",
+      "highlights": [
+        "Testing of the Order to Pay Cash Tender Software in Nationwide use at over 1500 FedEx Office Locations and Canada",
+        "Testing of E-Commerce orders sent through Order to Pay",
+        "Testing of FedEx Office NexGen Web-based online ordering software",
+        "Writing of test cases and defects associated with current project testing",
+        "Writing of test cases and defects using Mercury Quality Center",
+        "Use of SQL to verify credit card and e-Commerce data created during testing",
+        "Following of process flow and requirements using Mercury Quality Center"
+      ]
+    },
+    {
+      "company": "True.com (HD Vest Services)",
+      "role": "Senior QA Lead",
+      "period": "2005 — 2009",
+      "location": "Irving, TX",
+      "highlights": [
+        "Writing of SQL scripts for data validation, manipulation and verification",
+        "Worked closely with development, project management, marketing and other groups",
+        "Responsible for the daily activities of all projects assigned",
+        "Provided scopes, test plans, and test cases to the QA Manager and all QA team members involved in the project",
+        "Ensured usability and customer experience is covered in all test cases and test plans",
+        "Identified and resolved production and project issues in a timely manner",
+        "Able to justify the business reasons for each change or the business impact for each defect found",
+        "Took ownership of projects from concept to implementation",
+        "Demonstrated strong team skills and work ethic through working various hours, including late night, weekends and on-call",
+        "Demonstrated ability to express ideas/issues and concepts effectively, both verbally and in writing",
+        "Demonstrated ability to understand marketing goals and relate them to customer experience and the ability to be able to juggle priorities and shifting of assignments",
+        "Performed management duties in place of current management when they were unavailable",
+        "Attended meetings with Project Managers to discuss functionality of upcoming projects",
+        "Use of SQL, Surround SCM, Visual Studio"
+      ]
+    },
+    {
+      "company": "RealPage Inc.",
+      "role": "Product Support Specialist — Rentroll / Onesite Software",
+      "period": "2004 — 2005",
+      "location": "Carrollton, TX",
+      "highlights": [
+        "Product support to Major and small property management companies",
+        "Web based support of online web application called Onesite to manage online property and tenant Databases",
+        "Support of Rentroll and Onesite property management software online",
+        "Support and QA for online web based Apartment management software",
+        "Worked with Web Defect Manager, Online bug defect tracking tool for Onesite",
+        "Worked with the development department in tracking and fixing software defects",
+        "All manual testing of the Onesite Website Project"
+      ]
+    }
+  ],
+  "impact": [
+    { "metric": "15%", "label": "Increase in email open rates (A/B testing strategies at Verizon)" },
+    { "metric": "1500+", "label": "FedEx Office locations covered by Order to Pay Cash Tender testing" }
+  ]
+}

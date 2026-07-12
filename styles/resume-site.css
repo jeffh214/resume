@@ -857,6 +857,47 @@ body[data-theme="dark"] .level-proficient {
   }
 }
 
+.cert-badge-row {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-top: 1.5rem;
+}
+
+.cert-badge-row--hero {
+  margin: 0.85rem 0 1.1rem;
+}
+
+.cert-badge {
+  width: 4.5rem;
+  height: auto;
+  flex-shrink: 0;
+  display: block;
+}
+
+.cert-badge-row--hero .cert-badge {
+  width: 3.75rem;
+}
+
+.cert-badge-title {
+  font-size: 1rem;
+  margin: 0 0 0.2rem;
+}
+
+.cert-badge-row--hero .cert-badge-title {
+  font-size: 0.95rem;
+}
+
+.cert-badge-meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.cert-badge-row--hero .cert-badge-meta {
+  font-size: 0.85rem;
+}
+
 .note-box {
   font-size: 0.88rem;
   color: var(--muted);
@@ -1374,6 +1415,24 @@ body.nav-open {
 
   .credentials-grid article p {
     margin: 0 0 0.1rem !important;
+    font-size: 9.5pt !important;
+  }
+
+  .cert-badge-row {
+    margin-top: 0.35rem !important;
+    gap: 0.5rem !important;
+  }
+
+  .cert-badge {
+    width: 2.75rem !important;
+  }
+
+  .cert-badge-title {
+    font-size: 10pt !important;
+    margin: 0 0 0.05rem !important;
+  }
+
+  .cert-badge-meta {
     font-size: 9.5pt !important;
   }
 

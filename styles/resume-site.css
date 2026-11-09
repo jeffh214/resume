@@ -857,6 +857,13 @@ body[data-theme="dark"] .level-proficient {
   }
 }
 
+.cert-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  margin: 0.85rem 0 1.1rem;
+}
+
 .cert-badge-row {
   display: flex;
   align-items: center;
@@ -864,8 +871,9 @@ body[data-theme="dark"] .level-proficient {
   margin-top: 1.5rem;
 }
 
-.cert-badge-row--hero {
-  margin: 0.85rem 0 1.1rem;
+.cert-badge-row--hero,
+.cert-stack .cert-badge-row {
+  margin: 0;
 }
 
 .cert-badge {
@@ -1418,9 +1426,18 @@ body.nav-open {
     font-size: 9.5pt !important;
   }
 
+  .cert-stack {
+    gap: 0.35rem !important;
+    margin: 0.35rem 0 0.5rem !important;
+  }
+
   .cert-badge-row {
     margin-top: 0.35rem !important;
     gap: 0.5rem !important;
+  }
+
+  .cert-stack .cert-badge-row {
+    margin-top: 0 !important;
   }
 
   .cert-badge {

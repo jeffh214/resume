@@ -211,6 +211,6 @@
   ],
   "impact": [
     { "metric": "15%", "label": "Increase in email open rates (A/B testing strategies at Verizon)" },
-    { "metric": "1500+", "label": "FedEx Office locations covered by Order to Pay Cash Tender testing" }
+    { "metric": "400+", "label": "Websites and standalone apps tested" }
   ]
 }
